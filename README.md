@@ -1,6 +1,8 @@
 # Assignment 2 - Web API Assignment 2
 
-Name: Jessica Chitas
+Name: Sean Whelan
+Student Number: 20085513
+Course: Multimedia Applactions Development
 
 ## Features.
 
@@ -12,7 +14,7 @@ Name: Jessica Chitas
 Clone this repo:
 
 ```
-git clone https://github.com/jessicachitas/wad2-2023-assignment2.git
+git clone https://github.com/seanwhelan96/wad2-assignment2.git
 ```
 
 Install npm on the nesseccary files using the command line:
@@ -40,7 +42,7 @@ ______________________
 NODE_ENV=development
 PORT=8080
 HOST=localhost
-MONGO_DB=mongodb+srv://<username>:<password>@movies.vyordho.mongodb.net/movies?retryWrites=true&w=majority
+MONGO_DB=mongodb+srv://<username>:<password>@movies.8jim1v9.mongodb.net/movies?
 SEED_DB=True
 SECRET=ilikecake
 ______________________
